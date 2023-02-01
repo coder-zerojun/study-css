@@ -1,0 +1,27 @@
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+@import url('https://res.kurly.com/fonts/NotoSansKR-Light.woff2');
+
+@font-face {
+    font-family: 'MaplestoryOTFBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/MaplestoryOTFBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://rs.nxfs.nexon.com/home/fonts/NEXON%20Lv1%20Gothic%20OTF.eot');
+
+
+body {
+    font-family: "NanumSquareRound" !important;
+    /* font-family: "Noto Sans" */
+}
+
+span {
+    font-family: "MaplestoryOTFBold";
+    font-size: 25px;
+}
+
+p {
+    font-family: "NEXON Gothic";
+    font-size: 25px;
+}
